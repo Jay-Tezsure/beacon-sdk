@@ -71,7 +71,7 @@ gl-dependency-scanning-report.json
 e2e/output
 combined.webm
 
-examples/walletbeacon.min.js
+# examples/walletbeacon.min.js
 
 docs
 
